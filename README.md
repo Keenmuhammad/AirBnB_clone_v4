@@ -154,6 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Nigel Andahua - [Github](https://github.com/nigel2421)  
+Muhammad Ibrahim Bello - [Github](https://github.com/Keenmuhammad) 
+
+Emeka Bosah
 ## License
 Public Domain. No copy write protection. 
